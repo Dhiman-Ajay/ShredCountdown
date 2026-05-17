@@ -26,7 +26,7 @@ Most people quit their diets because they lose sight of the big picture. ShredCo
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="[screenshots/dashboard.png](https://github.com/Dhiman-Ajay/ShredCountdown/blob/37d707d9b8ccb71f554d94d95b87c48c22730116/scfeaturegraphics.png)" width="200" />
+  <img src='https://github.com/Dhiman-Ajay/ShredCountdown/blob/37d707d9b8ccb71f554d94d95b87c48c22730116/scfeaturegraphics.png' width="200" />
 </p>
 
 ---
